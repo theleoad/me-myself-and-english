@@ -21,15 +21,14 @@ This repository is an Impulso Network community’s effort and our main goal is 
 
 ### Apps
 
-- [All Ears English Podcast](https://allearsenglish.com/) - A Fun way to learn American English.  
-- [Grammar Girl - Quick and Dirty Tips](https://www.quickanddirtytips.com/grammar-girl) - Grammar Girl provides short, friendly tips to improve your writing.  
-
-
 ### Books
 
 ### Dictionaries
 
 ### Podcasts
+
+- [All Ears English Podcast](https://allearsenglish.com/) - A Fun way to learn American English.  
+- [Grammar Girl - Quick and Dirty Tips](https://www.quickanddirtytips.com/grammar-girl) - Grammar Girl provides short, friendly tips to improve your writing.  
 
 ### Youtube Channels
 
